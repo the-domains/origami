@@ -1,0 +1,14 @@
+layout_spectrum: 0.11883496027439833
+typography_spectrum: 0.3689563244115561
+color:
+  brandStrength: 0.06164565379731357
+  lightness: 0.5700105589348823
+  saturation: 0.24900935194455087
+  rhythmicContrast: 0.7742863530293107
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Origami
